@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nicolas-studio-br.github.io/sitemap.xml
