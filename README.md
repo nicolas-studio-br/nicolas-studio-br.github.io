@@ -17,3 +17,6 @@ Contact : nicolas_studio@proton.me
 
 ## Vinarium (23/11/2026)
 Nouvelle app Vinarium (cave à vin, iPhone/iPad, interface en français) : fiche + Confidentialité, Conditions, Assistance en EN/FR/ES/PT. Statut « pas encore disponible » avec bouton de contact, à remplacer par les badges App Store à la publication. SolTrace était déjà présent.
+
+## L’Avocat du Dimanche (24/11/2026)
+Nouvelle app (jeu de tribunal familial, iPhone/iPad, iOS 26, interface FR et PT-BR) : fiche + Confidentialité, Conditions, Assistance en EN/FR/ES/PT, URL /avocatdudimanche/. Statut « pas encore disponible » avec bouton de contact, à remplacer par le badge App Store à la publication. Le jeu à distance est présenté « en développement ».
