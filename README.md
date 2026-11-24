@@ -20,3 +20,14 @@ Nouvelle app Vinarium (cave à vin, iPhone/iPad, interface en français) : fiche
 
 ## L’Avocat du Dimanche (24/11/2026)
 Nouvelle app (jeu de tribunal familial, iPhone/iPad, iOS 26, interface FR et PT-BR) : fiche + Confidentialité, Conditions, Assistance en EN/FR/ES/PT, URL /avocatdudimanche/. Statut « pas encore disponible » avec bouton de contact, à remplacer par le badge App Store à la publication. Le jeu à distance est présenté « en développement ».
+
+## Mise à jour du 24/11/2026
+- Nouvelle app : **LinkShelf** (`/linkshelf/`, 4 langues, 4 pages).
+- **Vinarium** (build 5) : Mac, essai de 3 jours + achat unique, date d’essai en iCloud ; pages supplémentaires pour les URL déclarées dans App Store Connect (`/vinarium/en/`, `/vinarium/fr/privacy.html`, `/vinarium/pt-br/`…, canonical vers les pages principales).
+- **L’Avocat du Dimanche** : Mac, mode famille renforcé (Face ID / code), salles à distance multiples.
+- **SolTrace** : confidentialité corrigée d’après le code (WeatherKit, Open-Meteo, Nominatim), plateformes Mac et Apple Vision.
+
+## Vérification intégrale du 24/11/2026
+- FAQ « accessibilité » ajoutée à toutes les pages d’assistance (15 apps, 4 langues).
+- AeroTrace : mention d’Apple Intelligence (sur l’appareil) ; ClimatStress : notifications locales.
+- Achats intégrés relus contre les fichiers StoreKit : les pages existantes concordent.
