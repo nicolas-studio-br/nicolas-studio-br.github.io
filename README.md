@@ -31,3 +31,11 @@ Nouvelle app (jeu de tribunal familial, iPhone/iPad, iOS 26, interface FR et PT-
 - FAQ « accessibilité » ajoutée à toutes les pages d’assistance (15 apps, 4 langues).
 - AeroTrace : mention d’Apple Intelligence (sur l’appareil) ; ClimatStress : notifications locales.
 - Achats intégrés relus contre les fichiers StoreKit : les pages existantes concordent.
+
+## Mise à jour du 27/11/2026
+- Nouvelle app : **Portulan** (`/portulan/`, 4 langues, 4 pages) — enquête OSINT, iPhone/iPad/Mac/Apple Watch, iOS 18 / macOS 15 / watchOS 11, icône tirée du projet. Statut « pas encore disponible » avec bouton de contact, à remplacer par les badges App Store à la publication. Confidentialité rédigée d’après le code (requêtes réseau déclenchées par l’utilisateur, connecteurs Pro, horodatage RFC 3161, iCloud Drive, Apple Watch).
+- **Landing (4 langues)** : bouton Instagram @nico_studio_app avec le pictogramme Instagram (SVG intégré, en bas du bloc d’en-tête) ; logo Nicolas_Studio déjà présent dans l’en-tête et le bloc d’accueil. Carte Portulan ajoutée.
+- **ClimatStress** : le nom reste « ClimatStress » sur le site ; la page d’accueil et l’assistance indiquent que les versions hors États-Unis s’affichent « Calorvium: Heat Stress » (nom d’affichage du build 22). Confidentialité : lecture des mesures de température corporelle (90 jours, jusqu’à 500) ajoutée.
+- **LinkShelf** : widgets et app Apple Watch indépendante (watchOS 26) ajoutés aux 4 langues (accueil, confidentialité, assistance, mentions).
+- Correction : description (meta) tronquée des pages « Termos » en portugais de 8 apps.
+- Aucune URL existante modifiée. Sitemap : 265 URL.

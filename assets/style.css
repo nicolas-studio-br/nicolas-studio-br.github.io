@@ -35,3 +35,5 @@ footer a{color:var(--muted)}
 .crumb{padding:14px 0 0;font-size:13px}.crumb a{color:var(--muted);text-decoration:none;letter-spacing:.01em}.crumb a:hover{color:var(--accent);text-decoration:underline}
 code,sub{font-size:.85em}
 .refs li{font-size:15px;color:var(--muted)}
+
+.social{margin:18px 0 0}.ig{display:inline-flex;align-items:center;gap:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 18px;border-radius:14px;font-weight:600;font-size:16px;text-decoration:none}.ig:hover{border-color:var(--accent)}.igi{flex:none}.hero .social{margin-top:6px}
