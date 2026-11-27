@@ -37,3 +37,14 @@ code,sub{font-size:.85em}
 .refs li{font-size:15px;color:var(--muted)}
 
 .social{margin:18px 0 0}.ig{display:inline-flex;align-items:center;gap:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:10px 18px;border-radius:14px;font-weight:600;font-size:16px;text-decoration:none}.ig:hover{border-color:var(--accent)}.igi{flex:none}.hero .social{margin-top:6px}
+
+/*studio-bar*/
+.crumb{padding:12px 0 0;font-size:inherit}
+.crumb a.studio{display:inline-flex;align-items:center;gap:12px;color:var(--ink);text-decoration:none;font-weight:700;font-size:21px;letter-spacing:-.01em;line-height:1;padding:5px 14px 5px 5px;border-radius:14px}
+.crumb a.studio img{width:40px;height:40px;border-radius:10px;box-shadow:0 1px 6px rgba(0,0,0,.28)}
+.crumb a.studio:hover,.crumb a.studio:focus-visible{background:var(--card);color:var(--ink);text-decoration:none}
+.media{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin:26px 0}
+.vis{margin:0;flex:0 1 360px}
+.vis img,.vis video{display:block;width:100%;height:auto;border-radius:22px;box-shadow:0 14px 40px rgba(0,0,0,.28);background:#0d1211}
+.vis figcaption{margin-top:8px;text-align:center}
+.igi{width:22px;height:22px;border-radius:5px}

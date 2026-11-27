@@ -39,3 +39,9 @@ Nouvelle app (jeu de tribunal familial, iPhone/iPad, iOS 26, interface FR et PT-
 - **LinkShelf** : widgets et app Apple Watch indépendante (watchOS 26) ajoutés aux 4 langues (accueil, confidentialité, assistance, mentions).
 - Correction : description (meta) tronquée des pages « Termos » en portugais de 8 apps.
 - Aucune URL existante modifiée. Sitemap : 265 URL.
+
+## Mise à jour du 27/11/2026
+- **Bandeau de retour** : logo + « Nicolas_Studio » en haut de chaque page d'app (lien vers l'accueil dans la langue de la page) ; page « rejoindre » de l'Avocat du Dimanche et page `/civilsuite/fr/poids-ferraillage/` incluses.
+- **Nouvelle app : CellProb** (`/cellprob/`, 4 langues, 4 pages ; iPhone et iPad, iOS 17) : carte d'accueil, sitemap, textes d'après le code (aucune requête réseau, position uniquement pour centrer la carte). Statut « pas encore disponible » avec bouton de contact, à remplacer par le badge App Store à la publication.
+- **Visuels et vidéos** (depuis Marketing/05_Medias_entrants/Visuels_apps) : une image par page d'app (`assets/visual.jpg`), vidéo CivilSuite sur sa page, vidéo de présentation sur les 4 accueils.
+- **Instagram** : glyphe officiel (version dégradé, source Marketing/08_Comptes_Marque/Brand_Instagram) sur les 4 accueils.
