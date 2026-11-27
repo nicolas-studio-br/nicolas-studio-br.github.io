@@ -48,3 +48,4 @@ code,sub{font-size:.85em}
 .vis img,.vis video{display:block;width:100%;height:auto;border-radius:22px;box-shadow:0 14px 40px rgba(0,0,0,.28);background:#0d1211}
 .vis figcaption{margin-top:8px;text-align:center}
 .igi{width:22px;height:22px;border-radius:5px}
+.ig .igi,.hero .ig .igi{width:24px;height:24px;border-radius:6px;box-shadow:none;margin:0}
